@@ -1,12 +1,12 @@
 ---
-title: "Docker for Beginners: About Image and Containers, create and publish your first Image,"
+title: "Docker for Beginners: All about Images, Containers and how to publish them. How to use React JS with Docker."
 seoTitle: "Docker for beginners"
 datePublished: Sat Jan 06 2024 12:52:15 GMT+0000 (Coordinated Universal Time)
 cuid: clr22egc6000f0al8d1pafn3w
 slug: dockers-for-beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704543954707/fcabc44d-b56a-460e-ba43-b862e891c416.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1704545515562/a1bd7bd1-50ef-4d6b-b58a-8fcf2792a03a.png
-tags: docker, technology, opensource, technical-writing-1
+tags: docker, technology, opensource, reactjs, technical-writing-1
 
 ---
 
